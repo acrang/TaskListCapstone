@@ -1,0 +1,13 @@
+C:\Users\acran\source\repos\Capstones\TaskListCapstone\TaskListCapstone\obj\Debug\netcoreapp3.1\TaskListCapstone.csprojAssemblyReference.cache
+C:\Users\acran\source\repos\Capstones\TaskListCapstone\TaskListCapstone\obj\Debug\netcoreapp3.1\TaskListCapstone.AssemblyInfoInputs.cache
+C:\Users\acran\source\repos\Capstones\TaskListCapstone\TaskListCapstone\obj\Debug\netcoreapp3.1\TaskListCapstone.AssemblyInfo.cs
+C:\Users\acran\source\repos\Capstones\TaskListCapstone\TaskListCapstone\obj\Debug\netcoreapp3.1\TaskListCapstone.csproj.CoreCompileInputs.cache
+C:\Users\acran\source\repos\Capstones\TaskListCapstone\TaskListCapstone\bin\Debug\netcoreapp3.1\TaskListCapstone.exe
+C:\Users\acran\source\repos\Capstones\TaskListCapstone\TaskListCapstone\bin\Debug\netcoreapp3.1\TaskListCapstone.deps.json
+C:\Users\acran\source\repos\Capstones\TaskListCapstone\TaskListCapstone\bin\Debug\netcoreapp3.1\TaskListCapstone.runtimeconfig.json
+C:\Users\acran\source\repos\Capstones\TaskListCapstone\TaskListCapstone\bin\Debug\netcoreapp3.1\TaskListCapstone.runtimeconfig.dev.json
+C:\Users\acran\source\repos\Capstones\TaskListCapstone\TaskListCapstone\bin\Debug\netcoreapp3.1\TaskListCapstone.dll
+C:\Users\acran\source\repos\Capstones\TaskListCapstone\TaskListCapstone\bin\Debug\netcoreapp3.1\TaskListCapstone.pdb
+C:\Users\acran\source\repos\Capstones\TaskListCapstone\TaskListCapstone\obj\Debug\netcoreapp3.1\TaskListCapstone.dll
+C:\Users\acran\source\repos\Capstones\TaskListCapstone\TaskListCapstone\obj\Debug\netcoreapp3.1\TaskListCapstone.pdb
+C:\Users\acran\source\repos\Capstones\TaskListCapstone\TaskListCapstone\obj\Debug\netcoreapp3.1\TaskListCapstone.genruntimeconfig.cache
